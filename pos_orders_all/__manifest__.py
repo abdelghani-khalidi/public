@@ -2,7 +2,7 @@
 # Part of BrowseInfo. See LICENSE file for full copyright and licensing details.
 
 {
-	"name" : "All in One POS Features in Odoo",
+	"name" : "New All in One POS Features in Odoo",
 	"version" : "13.0.1.2",
 	"category" : "Point of Sale",
 	'summary': 'All in One POS features Orderlist,Reorder,Reprint,Coupons Discount,Order Return,, POS Stock etc.',
